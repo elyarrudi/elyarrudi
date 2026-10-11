@@ -1,7 +1,6 @@
 # Elyar Rudi
 
 Junior computer vision engineer. I train detection and segmentation models, and I run detection, tracking, and segmentation on video with ONNX and Docker.
-کپی جمله جدید
 
 ## Projects
 
