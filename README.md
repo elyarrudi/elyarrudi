@@ -16,8 +16,7 @@ Junior computer vision engineer. I train detection and segmentation models, and 
 
 ## Skills
 
-Python, PyTorch, TensorFlow, Keras, OpenCV, YOLOv8, Ssd, Faster R-CNN, DeepLabV3+, U-Net,ResU-net, 
-BoT-SORT, InsightFace, Docker, ONNX Runtime, CUDA.
+Python, PyTorch, TensorFlow, Keras, OpenCV, YOLOv8, SSD, Faster R-CNN, DeepLabV3+, U-Net, ResU-Net, BoT-SORT, InsightFace, Docker, ONNX Runtime, CUDA.
 
 ## Contact
 
