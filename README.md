@@ -1,36 +1,23 @@
-# Hi, I'm Elyar 👋
+# Elyar Rudi
 
-### Junior Computer Vision Engineer | Deep Learning
+Junior computer vision engineer. I train detection, tracking, and segmentation models, then run the video pipelines with ONNX and Docker.
 
-I'm a Computer Engineering graduate focused on building practical computer vision applications using deep learning.
+## Projects
 
-My work focuses on object detection, multi-object tracking, semantic segmentation, and deploying computer vision models for real-world video inference.
+- **[Vehicle tracking and speed estimation](https://github.com/elyarrudi/car-tracking-speed-estimation)** — Pretrained YOLOv8m, BoT-SORT, and speed between two lines. Logged run: 22.35 FPS average on a 393-frame 1280×720 clip (GTX 1660 Ti, ReID off).
 
-### 🛠️ Technical Skills
+- **[PPE detection and face recognition](https://github.com/elyarrudi/PPE-Detection-Face-Recognition)** — Faster R-CNN for helmet, head, body, and vest, with BoT-SORT and InsightFace. Best validation mAP@0.5:0.95: 0.3957.
 
-- **Programming Language:** Python
-- **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras, Torchvision
-- **Computer Vision:** OpenCV, Object Detection, Multi-Object Tracking, Semantic Segmentation
-- **Model Architectures:** Faster R-CNN, YOLOv8, DeepLabV3+, U-Net
-- **Tracking & Recognition:** BoT-SORT, InsightFace, OSNet
-- **Deployment & Optimization:** Docker, ONNX, ONNX Runtime, CUDA
+- **[Fire and smoke detection](https://github.com/elyarrudi/fire-smoke-detection-yolov8-botsort)** — Fine-tuned YOLOv8m, BoT-SORT, and ONNX inference. PyTorch test mAP50: 0.789.
 
-### 🚀 Featured Projects
+- **[Lane segmentation](https://github.com/elyarrudi/deeplabv3plus-lane-segmentation)** — DeepLabV3+ on ImageNet ResNet50, exported to ONNX and run in Docker. Best validation Mean IoU: 0.7969.
 
-- **[Vehicle Tracking & Speed Estimation](https://github.com/elyarrudi/car-tracking-speed-estimation)** — Vehicle detection, multi-object tracking, trajectory visualization, and speed estimation using YOLOv8 and BoT-SORT.
+- **[Steel defect segmentation](https://github.com/elyarrudi/severstal-steel-defect-segmentation)** — Custom PyTorch U-Net, trained from random initialization on Severstal. Best validation mean defect Dice: 0.60492.
 
-- **[PPE Detection & Face Recognition](https://github.com/elyarrudi/PPE-Detection-Face-Recognition)** — Personal protective equipment detection using Faster R-CNN, combined with face recognition using InsightFace.
+## Skills
 
-- **[Fire & Smoke Detection](https://github.com/elyarrudi/fire-smoke-detection-yolov8-botsort)** — Fire and smoke detection using YOLOv8 and multi-object tracking with BoT-SORT.
+Python, PyTorch, TensorFlow, Keras, Torchvision, OpenCV, YOLOv8, Faster R-CNN, DeepLabV3+, U-Net, BoT-SORT, InsightFace, OSNet, Docker, ONNX Runtime, CUDA.
 
-- **[Lane Segmentation](https://github.com/elyarrudi/deeplabv3plus-lane-segmentation)** — Lane segmentation using DeepLabV3+ with a ResNet50 backbone, including ONNX export and Docker-based inference.
+## Contact
 
-- **[Steel Defect Segmentation](https://github.com/elyarrudi/severstal-steel-defect-segmentation)** — Multi-class steel surface defect segmentation using a custom U-Net implemented in PyTorch.
-
-### 🎯 Professional Interests
-
-Interested in building practical computer vision solutions, developing deep learning models, and deploying efficient ML applications for real-world use cases.
-
-### 📫 Connect with Me
-
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/elyar-rudi-587605437/)
+[LinkedIn](https://www.linkedin.com/in/elyar-rudi-587605437/)
