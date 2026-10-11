@@ -20,4 +20,6 @@ Python, PyTorch, TensorFlow, Keras, OpenCV, YOLOv8, SSD, Faster R-CNN, DeepLabV3
 
 ## Contact
 
+[elyarrudy@gmail.com](mailto:elyarrudy@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/elyar-rudi-587605437/)
