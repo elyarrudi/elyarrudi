@@ -17,7 +17,7 @@ Junior computer vision and LLM engineer. I build realtime vision systems and pra
 
 ## Skills
 
-C++, Python, PyTorch, TensorFlow, Keras, OpenCV, ONNX Runtime, YOLO, OCR, LLM, RAG, Prompt Engineering, Docker, CUDA, BoT-SORT, InsightFace.
+C++, Python, PyTorch, TensorFlow, Keras, OpenCV, ONNX Runtime, YOLO, OCR, LLM,Lora, RAG, Prompt Engineering, Docker, CUDA, BoT-SORT, InsightFace.
 
 ## Contact
 
