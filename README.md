@@ -1,6 +1,6 @@
 # Elyar Rudi
 
-Junior computer vision and LLM engineer. I build realtime vision systems and practical LLM applications — from detection/OCR pipelines in C++ to RAG chatbots with prompt engineering.
+Junior computer vision and LLM engineer. I build realtime vision systems and practical LLM applications 
 
 ## Featured projects
 
