@@ -4,7 +4,7 @@ Junior computer vision and LLM engineer. I build realtime vision systems and pra
 
 ## Featured projects
 
-- **[Watch store LLM chatbot](https://github.com/elyarrudi/watch-store-llm-chatbot)** — Dual-mode LLM chatbot with catalog-grounded product suggestion and FAQ RAG.
+- **[Watch store LLM chatbot](https://github.com/elyarrudi/watch-store-llm-chatbot)** — Dual-mode LLM chatbot with catalog-grounded product suggestion and FAQ RAG on a Qdrant vector database.
 - **[Real-time carton detection & OCR](https://github.com/elyarrudi/Real-time-Carton-Detection-OCR-)** — Live carton detection and label OCR in C++, with kg-based counting and Excel export.
 
 ## Other projects
@@ -17,7 +17,7 @@ Junior computer vision and LLM engineer. I build realtime vision systems and pra
 
 ## Skills
 
-C++, Python, PyTorch, TensorFlow, Keras, OpenCV, ONNX Runtime, YOLO, OCR, LLM,Lora, RAG, Prompt Engineering, Docker, CUDA, BoT-SORT, InsightFace.
+C++, Python, PyTorch, TensorFlow, Keras, OpenCV, ONNX Runtime, YOLO, OCR, LLM,Lora, RAG, Prompt Engineering, Qdrant, Docker, CUDA, BoT-SORT, InsightFace.
 
 ## Contact
 
